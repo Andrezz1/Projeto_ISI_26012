@@ -14,7 +14,7 @@
             <config key="file_system_chooser__Internals">
                 <entry key="has_fs_port" type="xboolean" value="false"/>
                 <entry key="overwritten_by_variable" type="xboolean" value="false"/>
-                <entry key="convenience_fs_category" type="xstring" value="LOCAL"/>
+                <entry key="convenience_fs_category" type="xstring" value="RELATIVE"/>
                 <entry key="relative_to" type="xstring" value="knime.workflow.data"/>
                 <entry key="mountpoint" type="xstring" value="knime-temp-space"/>
                 <entry key="spaceId" type="xstring" value=""/>
@@ -23,14 +23,15 @@
             </config>
             <config key="path">
                 <entry key="location_present" type="xboolean" value="true"/>
-                <entry key="file_system_type" type="xstring" value="LOCAL"/>
-                <entry key="path" type="xstring" value="C:\Users\andre\OneDrive\Ambiente de Trabalho\Trabalho_ISI"/>
+                <entry key="file_system_type" type="xstring" value="RELATIVE"/>
+                <entry key="file_system_specifier" type="xstring" value="knime.workflow.data"/>
+                <entry key="path" type="xstring" value="Trabalho_ISI"/>
             </config>
             <config key="filter_mode_Internals">
                 <entry key="SettingsModelID" type="xstring" value="SMID_FilterMode"/>
                 <entry key="EnabledStatus" type="xboolean" value="true"/>
             </config>
-            <entry key="create_missing_folders" type="xboolean" value="false"/>
+            <entry key="create_missing_folders" type="xboolean" value="true"/>
             <entry key="if_path_exists" type="xstring" value="overwrite"/>
         </config>
         <config key="json_column_Internals">
@@ -95,6 +96,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="8a1fe7e9-1d88-4ab0-8032-53e32d633792"/>
+        <entry key="file_store_id" type="xstring" value="d71cde80-2340-458b-9269-833dc192732a"/>
     </config>
 </config>

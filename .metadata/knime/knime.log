@@ -1,0 +1,3 @@
+2024-10-25 21:58:55,136 : WARN  : ModalContext :  : Node : SQLite Connector : 3:53 : Data is stored only in memory and will become unavailable when the connector node is reset or the application is closed.
+2024-10-25 21:58:55,142 : WARN  : ModalContext :  : Node : SQLite Connector : 3:53 : DB Connection no longer available. Go to advanced settings to enable connection restoration.
+2024-10-25 21:58:55,418 : WARN  : ModalContext :  : Node : File Upload Widget : 3:49 : Did not restore content; consider to re-execute!

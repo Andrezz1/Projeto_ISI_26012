@@ -2,7 +2,7 @@
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="db_session">
     <config key="Session Info">
         <entry key="version" type="xint" value="5"/>
-        <entry key="sessionID" type="xstring" value="6f63c0bd-8350-4526-bdec-522497ca7294"/>
+        <entry key="sessionID" type="xstring" value="591e4d5b-766d-49e5-8936-fa40bdcd25ea"/>
         <entry key="dbTypeId" type="xstring" value="sqlite"/>
         <entry key="dialectId" type="xstring" value="sqlite"/>
         <entry key="dbURL" type="xstring" value="jdbc:sqlite:file:temporary?mode=memory&amp;cache=shared"/>

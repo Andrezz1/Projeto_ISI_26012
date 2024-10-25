@@ -1,0 +1,173 @@
+{
+  "Transactions" : {
+    "Transaction" : [ {
+      "@Amount" : "100.5",
+      "@AmountAfterTax" : "98.49  USD",
+      "@Date" : "21/10/2023",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "2.0100000000000002"
+    }, {
+      "@Amount" : "362.34",
+      "@AmountAfterTax" : "355.09  USD",
+      "@Date" : "18/03/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "7.2467999999999995"
+    }, {
+      "@Amount" : "346.21",
+      "@AmountAfterTax" : "339.28  USD",
+      "@Date" : "06/05/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "6.9242"
+    }, {
+      "@Amount" : "650.66",
+      "@AmountAfterTax" : "637.64  EUR",
+      "@Date" : "24/03/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "13.0132"
+    }, {
+      "@Amount" : "668.53",
+      "@AmountAfterTax" : "655.15  USD",
+      "@Date" : "02/02/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "13.3706"
+    }, {
+      "@Amount" : "539.32",
+      "@AmountAfterTax" : "528.53  EUR",
+      "@Date" : "11/08/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "10.7864"
+    }, {
+      "@Amount" : "415.54",
+      "@AmountAfterTax" : "407.22  EUR",
+      "@Date" : "29/08/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "8.3108"
+    }, {
+      "@Amount" : "752.87",
+      "@AmountAfterTax" : "737.81  EUR",
+      "@Date" : "09/04/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "15.057400000000001"
+    }, {
+      "@Amount" : "163.86",
+      "@AmountAfterTax" : "160.58  USD",
+      "@Date" : "21/06/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "3.2772000000000006"
+    }, {
+      "@Amount" : "800.05",
+      "@AmountAfterTax" : "784.04  EUR",
+      "@Date" : "07/04/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "16.000999999999998"
+    }, {
+      "@Amount" : "278.63",
+      "@AmountAfterTax" : "273.05  EUR",
+      "@Date" : "13/01/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "5.5726"
+    }, {
+      "@Amount" : "114.24",
+      "@AmountAfterTax" : "111.95  USD",
+      "@Date" : "05/05/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "2.2848"
+    }, {
+      "@Amount" : "148.02",
+      "@AmountAfterTax" : "145.05  USD",
+      "@Date" : "05/11/2023",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "2.9604000000000004"
+    }, {
+      "@Amount" : "464.52",
+      "@AmountAfterTax" : "455.22  USD",
+      "@Date" : "25/01/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "9.2904"
+    }, {
+      "@Amount" : "177.78",
+      "@AmountAfterTax" : "174.22  USD",
+      "@Date" : "22/02/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "3.5556"
+    }, {
+      "@Amount" : "406.04",
+      "@AmountAfterTax" : "397.91  USD",
+      "@Date" : "19/07/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "8.120800000000001"
+    }, {
+      "@Amount" : "281.27",
+      "@AmountAfterTax" : "275.64  EUR",
+      "@Date" : "08/11/2023",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "5.6254"
+    }, {
+      "@Amount" : "431.51",
+      "@AmountAfterTax" : "422.87  USD",
+      "@Date" : "02/07/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "8.6302"
+    }, {
+      "@Amount" : "813.84",
+      "@AmountAfterTax" : "797.56  EUR",
+      "@Date" : "30/07/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "16.2768"
+    }, {
+      "@Amount" : "328.7",
+      "@AmountAfterTax" : "322.12  USD",
+      "@Date" : "26/01/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "6.574"
+    }, {
+      "@Amount" : "689.81",
+      "@AmountAfterTax" : "676.01  EUR",
+      "@Date" : "15/09/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "13.796199999999999"
+    }, {
+      "@Amount" : "233.69",
+      "@AmountAfterTax" : "229.01  USD",
+      "@Date" : "27/12/2023",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "4.6738"
+    }, {
+      "@Amount" : "71.11",
+      "@AmountAfterTax" : "69.68  EUR",
+      "@Date" : "02/04/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "1.4222"
+    }, {
+      "@Amount" : "140.87",
+      "@AmountAfterTax" : "138.05  USD",
+      "@Date" : "06/07/2024",
+      "@ID" : "###",
+      "@Status" : "completed",
+      "@Tax" : "2.8174"
+    } ]
+  }
+}

@@ -29,7 +29,7 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.database.port.DBDataPortObjectSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.database.port.DBDataPortObject"/>
-            <entry key="port_object_summary" type="xstring" value="SQLite 6f63c0bd-8350-4526-bdec-522497ca7294"/>
+            <entry key="port_object_summary" type="xstring" value="SQLite 591e4d5b-766d-49e5-8936-fa40bdcd25ea"/>
             <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
             <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
@@ -37,6 +37,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="832bc9a4-959c-4e39-b5de-ab1cfc63b814"/>
+        <entry key="file_store_id" type="xstring" value="52b8d1e5-6f96-4d37-8d30-8598b2a2a15d"/>
     </config>
 </config>
